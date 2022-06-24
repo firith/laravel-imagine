@@ -34,5 +34,5 @@
         "ext-imagick": "To use the imagick library"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": true
 }
